@@ -24,7 +24,7 @@ A robust Python pipeline for detecting and classifying anomalies in tabular time
 
  ## Installation Install the required Python packages using pip:
  
-```bash pip install pandas numpy matplotlib seaborn scikit-learn catboost lightgbm ```
+```pip install pandas numpy matplotlib seaborn scikit-learn catboost lightgbm ```
 
 ### Data
 
